@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/imad-chakour/houseplant-store/static/css/main.cffd4e74.css",
-    "main.js": "/imad-chakour/houseplant-store/static/js/main.ced00eb8.js",
-    "static/js/453.959252e9.chunk.js": "/imad-chakour/houseplant-store/static/js/453.959252e9.chunk.js",
-    "index.html": "/imad-chakour/houseplant-store/index.html",
-    "main.cffd4e74.css.map": "/imad-chakour/houseplant-store/static/css/main.cffd4e74.css.map",
-    "main.ced00eb8.js.map": "/imad-chakour/houseplant-store/static/js/main.ced00eb8.js.map",
-    "453.959252e9.chunk.js.map": "/imad-chakour/houseplant-store/static/js/453.959252e9.chunk.js.map"
+    "main.css": "./static/css/main.cffd4e74.css",
+    "main.js": "./static/js/main.32462809.js",
+    "static/js/453.959252e9.chunk.js": "./static/js/453.959252e9.chunk.js",
+    "index.html": "./index.html",
+    "main.cffd4e74.css.map": "./static/css/main.cffd4e74.css.map",
+    "main.32462809.js.map": "./static/js/main.32462809.js.map",
+    "453.959252e9.chunk.js.map": "./static/js/453.959252e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cffd4e74.css",
-    "static/js/main.ced00eb8.js"
+    "static/js/main.32462809.js"
   ]
 }
