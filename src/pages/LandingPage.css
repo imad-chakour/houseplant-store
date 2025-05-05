@@ -1,0 +1,19 @@
+.landing-page {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f1f8e9;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .get-started-btn {
+    display: inline-block;
+    background-color: #2e7d32;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 1rem;
+  }
